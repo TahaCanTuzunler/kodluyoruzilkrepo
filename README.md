@@ -25,3 +25,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+---
+---
+---
+
+[patika hesabım](https://app.patika.dev/thcnt)
+
